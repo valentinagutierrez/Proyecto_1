@@ -1,0 +1,16 @@
+*{
+    background-color: #000000;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-family: 'Secular One', sans-serif;
+}
+h1 {
+    margin-bottom: 0rem !important;
+    margin-top: 1% !important;
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-family: 'Secular One', sans-serif;
+}
+.bg-dark {
+    background-color: #000000!important;
+}
